@@ -1,16 +1,14 @@
 
-title: Catbook #Your awesome title
-email: #youremail@domain.com
+title: Here is Ri0n72Y
+email: tzy673570751@gmail.com
 description: > # this means to ignore newlines until "baseurl"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A post site for Ri0n72Y, welcome.
 
-baseurl: # the subpath of the site
+baseurl: '/' # the subpath of the site
 url: http://starry99.github.io/catbook # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
-timezone:
+timezone: 'UTC+8'
 
 favicon: /assets/img/favicon.ico
 
@@ -18,11 +16,11 @@ google_analytics: #UA—XXXXXXXX-X
 disqus_shortname: #disqus shortname
 
 user:
-  name: Catbook
-  pic: /assets/img/cat.jpg
-  picAlt: "catbook"
-  job: a category-centric theme
-  aboutme: true # comment this out if you don't need the 'about' page.
+  name: Ri0n72Y
+  pic: /assets/img/icon.jpg
+  picAlt: "SumireHina"
+  job: Code Farmer, Idea/Trash Creator
+  # aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
   - README.md
@@ -41,7 +39,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown 
 
 # Filtering Content
-show_drafts: null
+show_drafts: false
 limit_posts: 0
 future:      false
 unpublished: false
