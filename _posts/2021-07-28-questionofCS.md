@@ -1,6 +1,6 @@
 ---
 title: 计算机科学的基本问题（1）
-categories: [杂谈]
+categories: [开发]
 comments: true
 ---
 
