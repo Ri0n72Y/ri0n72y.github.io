@@ -1,6 +1,6 @@
 ---
 title: Unreal Engine Paper2D 像素画素材的导入
-categories: [开发]
+categories: [杂谈]
 comments: true
 ---
 
